@@ -1,0 +1,1 @@
+{"name":"Local: selection_sort","url":"/home/hp/Documents/Windows all code/DSA/SORTING/selection_sort.cpp","tests":[{"id":1768114426283,"input":"5\n2 7 3 1 6","output":"1 2 3 6 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hp/Documents/Windows all code/DSA/SORTING/selection_sort.cpp","group":"local","local":true}
